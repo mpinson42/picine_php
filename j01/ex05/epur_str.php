@@ -9,4 +9,5 @@
 	$filtre = array_filter($decoup);
 	$implod = implode(" ", $filtre);
 	echo $implod;
+	echo "\n";
 ?>

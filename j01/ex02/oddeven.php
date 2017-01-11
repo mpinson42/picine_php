@@ -17,8 +17,8 @@ while(1)
 	}
 	else
 	{
-		echo "le nombre $int est : ";
-		if(substr($int, -1) % 2 == 0)
+		echo "le chiffre $int est : ";
+		if($int % 2 == 0)
 		{
 			echo "Pair\n";
 		}

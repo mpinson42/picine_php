@@ -5,7 +5,10 @@ while(1)
 	echo "Entrez un nombre: ";
 	$int = trim(fgets(STDIN));
 	if(feof(STDIN) == TRUE)
+	{
+		echo "\n";
 		exit();
+	}
 	if(!is_numeric($int))
 	{
 		echo "'$int'";
@@ -14,7 +17,7 @@ while(1)
 	}
 	else
 	{
-		echo "le nombre '$int' est : ";
+		echo "le nombre $int est : ";
 		if(substr($int, -1) % 2 == 0)
 		{
 			echo "Pair\n";

@@ -1,7 +1,4 @@
-#!/usr/bin/php
 <?php
-
-
 function ft_split($str)
 {
 	$decoup = explode(' ', $str);
@@ -9,7 +6,4 @@ function ft_split($str)
 	sort($filtre);
 	return $filtre;
 }
-
-
-
 ?>

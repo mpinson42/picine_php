@@ -1,0 +1,208 @@
+body {
+	background-color: 	#505050;
+}
+
+.haut {
+	margin-top: 15px;
+	width: 1420px;
+    height: 135px;
+    background-color: #909090;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+    margin-left: 233px;
+    position: relative;
+}
+
+.pdoft {
+	height: 135px;
+	margin-left: 15px;
+}
+
+.loup {
+	margin-top: 9px;
+    position: absolute;
+    margin-left: 597px;
+    width: 241px;
+    height: 148px;
+}
+
+.refresh {
+	width: 20px;
+	position: absolute;
+    margin-top: 10px;
+    margin-left: 843px;
+}
+
+.cross {
+	position: absolute;
+    margin-top: 109px;
+    margin-left: 843px;
+}
+
+.droit {
+	text-align: center;
+	width: 141px;
+    height: 425px;
+    margin-left: 266px;
+    margin-top: 20px;
+    background-color: #909090;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+}
+
+.arrow {
+	width: 65px;
+	margin-top: 15px
+}
+
+.main {
+	width: 80px;
+    
+}
+
+.oeil {
+	width: 80px;
+    margin-top: 2px;
+    border: 5px solid red;
+}
+
+.tools {
+	    width: 75px;
+}
+
+.chat {
+	width: 70px;
+}
+
+.bas {
+	width: 1020px;
+    height: 580px;
+    background-color: #909090;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+    position: absolute;
+    top: 170px;
+    left: 446px;
+}
+
+.cluster {
+	width: 1000px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.gauche {
+	text-align: center;
+    width: 141px;
+    height: 425px;
+    margin-left: 1488px;
+    margin-top: -425px;
+    background-color: #909090;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+    position: absolute;
+}
+
+.book {
+	width: 86px;
+    margin-top: 20px;
+}
+
+.serviette {
+	height: 42px;
+}
+
+.bricks {
+	width: 122px;
+    height: 72px;
+    margin-left: 10px;
+    background-image: url(resources/brick.jpg);
+}
+
+.up {
+	margin-top: 78px;
+    width: 522px;
+    height: 172px;
+    background-color: #85FF91;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px black;
+    margin-left: 185px;
+    position: relative;
+}
+
+.first_word {
+	    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+p {
+	font-size: 18px;
+    font-family: arial;
+}
+
+.tall_word {
+	margin-top: -8px;
+    margin-left: 54px;
+    font-size: 40px;
+    position: absolute;
+    font-family: -webkit-body;
+}
+
+.plan_text {
+	    margin-top: 10px;
+    margin-left: 159px;
+    position: absolute;
+}
+
+.word_shadow {
+	margin-top: 33px;
+    margin-left: 9px;
+    position: absolute;
+    text-shadow: 15px 5px 6px red;
+}
+
+input {
+	position: absolute;
+    margin-top: 84px;
+    width: 385px;
+    height: 18px;
+    margin-left: 13px;
+    box-shadow: 1px 1px 0px lightgrey inset;
+}
+
+button {
+	    position: absolute;
+    margin-top: 84px;
+    margin-left: 414px;
+    width: 75px;
+    height: 22px;
+}
+
+.italic_word {
+	position: absolute;
+    margin-top: 54px;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.apple {
+	    width: 190px;
+    height: 148px;
+    position: absolute;
+    top: 324px;
+    left: 797px;
+}
+
+.ikea {
+	width: 139px;
+    height: 217px;
+    position: absolute;
+    top: 332px;
+    left: 326px;
+}
+
+.link {
+	width: 100%;
+	height: 100%;
+}
